@@ -8,7 +8,7 @@
 🎓&nbsp;I graduated form Politeknik Enjinering Indorama, Purwakarta (Software Engineering, 2019 - Present).\
 ✍️ &nbsp;In my free time, I like photo and video editing, running and read a book or comic as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions about projects!\
-✉️ &nbsp;You can email me at muhammadraffiwijaya@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at raffiwijaya505@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume] on my website, for more details about work experience.
 
 ### 🛠 &nbsp;Tech Stack 
