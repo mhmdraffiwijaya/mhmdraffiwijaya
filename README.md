@@ -5,7 +5,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓&nbsp;I graduated form Politeknik Enjinering Indorama, Purwakarta (Software Engineering, 2019 - Present).\
+🎓&nbsp;I graduated form Politeknik Enjinering Indorama, Purwakarta (Software Engineering, 2019 - 2023).\
 ✍️ &nbsp;In my free time, I like photo and video editing, running and read a book or comic as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions about projects!\
 ✉️ &nbsp;You can email me at raffiwijaya505@gmail.com. I'll try to respond as soon as possible!\
